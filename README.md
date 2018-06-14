@@ -1,1 +1,1 @@
-# Custom Naming Strategy in Hibernate
+# CustomNamingStertegy in Hibernate
